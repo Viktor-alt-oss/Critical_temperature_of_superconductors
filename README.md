@@ -2,6 +2,7 @@
 
 ## Project Description
 This project develops machine learning models to predict the critical temperature of superconductors based on their chemical composition and physical properties. Superconductivity - the phenomenon where materials exhibit zero electrical resistance below a critical temperature - was discovered by Heike Kamerlingh Onnes in 1911. Despite being known for over a century, the relationship between superconductivity and material properties remains poorly understood.
+**Competition:** [Critical Temperature of Superconductors](https://www.kaggle.com/c/critical-temperature-of-superconductors/overview) 
 
 The project was developed as part of the Samsung Innovation Campus Bootcamp: Classical Machine Learning program, aiming to establish connections between chemical composition, various material properties, and critical temperature.
 
